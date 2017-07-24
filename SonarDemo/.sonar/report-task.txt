@@ -1,0 +1,5 @@
+projectKey=com.dse.sonar
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.dse.sonar
+ceTaskId=AV10TE02bTUJqdBgXlOG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV10TE02bTUJqdBgXlOG
